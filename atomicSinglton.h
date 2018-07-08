@@ -1,6 +1,8 @@
 #ifndef __ATOMIC_SINGLTON__
 #define __ATOMIC_SINGLTON__
-
+/*
+	c++ - Implementation of multithread safe Singleton with atomic built-in functions.
+*/
 
 namespace advcpp
 {
